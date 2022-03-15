@@ -15,7 +15,7 @@ const Home = () => {
                         <Row>
                             <Col className="text-center">                        
                                 <Card className="text-center loadingBg" style={{height:'90vh', boxShadow:'0 0 20px rgba(0,0,0,0.6)'}}>
-                                <span className="loaderBox"></span>
+                                <span className="loaderBox"><Spinner animation="border" variant="success" size="sm" style={{width:'80px', height:'80px'}} /></span>
                                 </Card>
                             </Col>
                         </Row>
