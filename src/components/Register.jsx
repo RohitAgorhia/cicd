@@ -245,7 +245,7 @@ const Register = () => {
                          <Card.Body>
                              <Container fluid>
                                  <Row>
-                                     <Col xs="12"><h1 className="text-dark mt-5">Get Started</h1>
+                                     <Col xs="12"><h1 className="text-dark mt-5">Get Started second 2</h1>
                                          <p className="fs-16 fR">
                                              <span className="text-muted"> Do you have an account?</span> 
                                              <Card.Link href="#" className="fs-16 fR" style={{color:'#33bc35'}} onClick={loginRedirect}> Login</Card.Link> 
